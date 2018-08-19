@@ -46,8 +46,8 @@
 
 This project contains x files and y folder:
 
-- `__.ipynb`: This is the main file where I have performed my work on the project.
-- `__.csv`: The project dataset. I have loaded this data in the notebook..
+- `result.ipynb`: This is the main file where I have performed my work on the project.
+- `result.csv`: The project dataset. I have loaded this data in the notebook..
 - `export/` : Folder containing HTML and PDF version file of notebook.
 - 'x' : Y
 - 'x' : Y
@@ -80,11 +80,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `____` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook ____.ipynb
+ipython notebook result.ipynb
 ```  
 or
 ```bash
-jupyter notebook ____.ipynb
+jupyter notebook result.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
