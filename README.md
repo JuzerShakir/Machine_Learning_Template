@@ -2,7 +2,7 @@
 ## _Name of the ML Task_
 
 <h3 align = 'center'><i>Project Logo</i></h3>
-<!--<p align = 'center'><img src = '_____.jpg', height=x, width =y></p>-->
+<!--<p align = 'center'><img src = 'logo.jpg', height=412, width =412></p>-->
 
 ----
 
