@@ -1,5 +1,5 @@
-# _Name of the ML Task_
-## Project: _Project Name_
+# Project: _Project Name_
+## _Name of the ML Task_
 
 <h3 align = 'center'><i>Project Logo</i></h3>
 <!--<p align = 'center'><img src = '_____.jpg', height=x, width =y></p>-->
