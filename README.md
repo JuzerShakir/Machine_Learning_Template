@@ -1,7 +1,7 @@
 # Project: _Project Name_
 ## _Name of the ML Task_
 
-<p align = 'center'><img src = 'logo.png', height=412, width =412></p>
+<p align = 'center'><img src = 'logo.png', height=312, width =312></p>
 
 ----
 
