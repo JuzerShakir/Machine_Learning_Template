@@ -18,7 +18,6 @@
     - [Execution](#execution)<br>
 - [Conclusion](#conclusion)<br>
     - [What I learned](#what-i-learned)<br>
-    - [Evaluation](#evaluation)
     - [Results](#results)
 
 ----
@@ -48,8 +47,8 @@ This project contains x files and y folder:
 - `result.ipynb`: This is the main file where I have performed my work on the project.
 - `result.csv`: The project dataset. I have loaded this data in the notebook..
 - `export/` : Folder containing HTML and PDF version file of notebook.
-- 'x' : Y
-- 'x' : Y
+- `x` : Y
+- `x` : Y
 
 #### Dataset file
 "Explain the dataset file that contains the data for prediction."
@@ -60,15 +59,14 @@ This project contains x files and y folder:
 
 #### Requirements
 
-This project requires **Python x** and the following Python libraries installed:
+This project requires **Python 3.6** and the following Python libraries installed:
 
-- [Python x](https://www.python.org/downloads/release/python-x/)
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [seaborn](https://seaborn.pydata.org/installing.html)
-- [TensorFlow](https://www.tensorflow.org/install/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [Python 3.6.6](https://www.python.org/downloads/release/python-366/)      (Language Used for the project)
+- [NumPy](http://www.numpy.org/)                                            (For Scientific Computing)
+- [Pandas](http://pandas.pydata.org)                                        (For Data Analysis)
+- [matplotlib](http://matplotlib.org/)                                      (For Visualization)   
+- [seaborn](https://seaborn.pydata.org/installing.html)                     (For Visualization)
+- [scikit-learn](http://scikit-learn.org/stable/)                           (ML Library for Python)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
 
@@ -79,11 +77,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `____` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook result.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook result.ipynb
+jupyter notebook report.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
