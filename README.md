@@ -60,9 +60,9 @@ This project contains x files and y folder:
 
 #### Requirements
 
-This project requires **Python 3.6** and the following Python libraries installed:
+This project requires **Python 3.x** and the following Python libraries installed:
 
-- [Python 3.6.6](https://www.python.org/downloads/release/python-366/)      (Language Used for the project)
+- [Python 3.x](https://www.python.org/downloads/)       (Language Used for the project)
 - [NumPy](http://www.numpy.org/)                                            (For Scientific Computing)
 - [Pandas](http://pandas.pydata.org)                                        (For Data Analysis)
 - [matplotlib](http://matplotlib.org/)                                      (For Visualization)   
