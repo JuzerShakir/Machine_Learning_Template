@@ -62,13 +62,13 @@ This project contains x files and y folder:
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
-- [Python 3.x](https://www.python.org/downloads/)       (Language Used for the project)
-- [NumPy](http://www.numpy.org/)                                            (For Scientific Computing)
-- [Pandas](http://pandas.pydata.org)                                        (For Data Analysis)
-- [matplotlib](http://matplotlib.org/)                                      (For Visualization)   
-- [seaborn](https://seaborn.pydata.org/installing.html)                     (For Visualization)
-- [scikit-learn](http://scikit-learn.org/stable/)                           (ML Library for Python)
-- [TensorFlow](https://www.tensorflow.org/install/)                (ML Library for Deep Learning)
+- [Python 3.x](https://www.python.org/downloads/)       (_Language Used for the project_)
+- [NumPy](http://www.numpy.org/)                                            (_For Scientific Computing_)
+- [Pandas](http://pandas.pydata.org)                                        (_For Data Analysis_)
+- [matplotlib](http://matplotlib.org/)                                      (_For Visualization_)   
+- [seaborn](https://seaborn.pydata.org/installing.html)                     (_For Visualization_)
+- [scikit-learn](http://scikit-learn.org/stable/)                           (_ML Library for Python_)
+- [TensorFlow](https://www.tensorflow.org/install/)                (_ML Library for Deep Learning_)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
 
