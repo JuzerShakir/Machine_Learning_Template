@@ -67,7 +67,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)                                        (_For Data Analysis_)
 - [matplotlib](http://matplotlib.org/)                                      (_For Visualization_)   
 - [seaborn](https://seaborn.pydata.org/installing.html)                     (_For Visualization_)
-- [scikit-learn](http://scikit-learn.org/stable/)                           (_ML Library for Python_)
+- [scikit-learn](http://scikit-learn.org/stable/)                           (_ML Library for training & testing data_)
 - [TensorFlow](https://www.tensorflow.org/install/)                (_ML Library for Deep Learning_)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
