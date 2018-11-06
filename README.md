@@ -5,7 +5,8 @@
 
 ----
 
-### Table Of Contents:
+
+<h3>Table Of Contents:</h3>
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
@@ -22,7 +23,8 @@
 
 ----
 
-### Description
+
+<h3>Description</h3>
 
 #### About the project
 "Describe the project in detail. What is your task and what is that you want to predict."
@@ -35,10 +37,10 @@
 #### Why this project
 "Provide Motivation for this project."
 
-
 ----
 
-### Data
+
+<h3>Data</h3>
 
 #### Files
 
@@ -56,7 +58,8 @@ This project contains x files and y folder:
 
 ----
 
-### Loading Project
+
+<h3>Loading Project</h3>
 
 #### Requirements
 
