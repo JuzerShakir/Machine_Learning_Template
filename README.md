@@ -7,6 +7,7 @@
 
 
 <h3>Table Of Contents:</h3>
+
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
@@ -21,8 +22,8 @@
     - [What I learned](#what-i-learned)<br>
     - [Results](#results)
 
-----
 
+----
 
 <h3>Description</h3>
 
@@ -37,8 +38,8 @@
 #### Why this project
 "Provide Motivation for this project."
 
-----
 
+----
 
 <h3>Data</h3>
 
@@ -56,8 +57,8 @@ This project contains x files and y folder:
 #### Dataset file
 "Explain the dataset file that contains the data for prediction."
 
-----
 
+----
 
 <h3>Loading Project</h3>
 
