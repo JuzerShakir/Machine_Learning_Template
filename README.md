@@ -6,7 +6,7 @@
 ----
 
 
-<h3>Table Of Contents:</h3>
+<h3><ins>Table Of Contents:</ins></h3>
 
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
@@ -25,7 +25,7 @@
 
 ----
 
-<h3>Description</h3>
+<h3><ins>Description</ins></h3>
 
 #### About the project
 "Describe the project in detail. What is your task and what is that you want to predict."
@@ -41,7 +41,7 @@
 
 ----
 
-<h3>Data</h3>
+<h3><ins>Data</ins></h3>
 
 #### Files
 
@@ -60,7 +60,7 @@ This project contains x files and y folder:
 
 ----
 
-<h3>Loading Project</h3>
+<h3><ins>Loading Project</ins></h3>
 
 #### Requirements
 
