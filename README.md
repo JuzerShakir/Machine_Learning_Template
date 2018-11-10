@@ -12,6 +12,7 @@
     - [About the project](#about-the-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
     - [Why this project](#why-this-project)<br>
+    - [Sources](#sources)
 - [Data](#data)<br>
     - [Files](#files)<br>
     - [Dataset file](#dataset-file)<br>
