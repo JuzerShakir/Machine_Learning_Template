@@ -59,6 +59,17 @@ This project contains x files and y folder:
 
 
 #### Dataset file
+
+|||
+| ------ | ------ |
+| **Associated Task** |  |
+| **Data Set Characteristics** |  |
+| **Attribute Characteristics** |  |
+| **Number of Instances** |  |
+| **Number of Attributes** |  |
+| **Missing Values?** |  |
+| **Area** |  |
+
 "Explain the dataset file that contains the data for prediction."
 
 
