@@ -70,8 +70,6 @@ This project contains x files and y folder:
 | **Missing Values?** |  |
 | **Area** |  |
 
-"Explain the dataset file that contains the data for prediction."
-
 
 ----
 
