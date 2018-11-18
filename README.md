@@ -70,6 +70,7 @@ This project contains x files and y folder:
 | **Missing Values?** |  |
 | **Area** |  |
 
+**Predicting attribute:** _info_
 
 ----
 
