@@ -90,9 +90,10 @@ This project was solved with the following versions of libraries installed:
 | [scikit-learn](http://scikit-learn.org/stable/)   |  (_ML Library for training & testing data_) |**0.20.0**   |
 | [TensorFlow](https://www.tensorflow.org/install/) |  (_ML Library for Deep Learning_) | **1.11**  |
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included.
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install) installed to run and execute `report.ipynb` file. You can also use [Jupyterlab](https://github.com/jupyterlab/) too to run and execute, _Jupyterlab_ is better version of _Jupyter Notebook_. Instructions to download Jupyterlab can be found [here](https://github.com/jupyterlab/jupyterlab#installation).
 
 #### Execution
 
