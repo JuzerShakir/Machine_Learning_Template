@@ -111,7 +111,7 @@ or if you have 'Jupyter Lab' installed
 jupyter lab
 ```
 
-This will open the Jupyter/iPython Notebook software and project file in your browser.
+This will open the Jupyter/iPython Notebook or Jupyterlab software and project file in your browser.
 
 -----
 
